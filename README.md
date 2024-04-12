@@ -1,5 +1,5 @@
 
-### Project Description: Real-Time Sentiment Analysis of Slack Messages
+### Real-Time Sentiment Analysis of Slack Messages
 
 #### Overview
 This project leverages Apache Spark to perform real-time sentiment analysis on messages from a designated Slack channel. It uses natural language processing (NLP) to determine the emotional tone behind messages, categorizing them as positive, negative, or neutral. The insights derived from this analysis are visualized over time, allowing users to monitor the mood and tone of discussions within the Slack channel dynamically.
