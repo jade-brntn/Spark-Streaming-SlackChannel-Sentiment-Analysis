@@ -1,0 +1,8 @@
+
+pyspark==3.1.1
+slack_sdk
+textblob
+matplotlib
+pandas
+nltk
+    
